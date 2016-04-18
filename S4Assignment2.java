@@ -5,29 +5,6 @@ class S4Assignment2
 {
    public static void main(String args[])
    {
-	   /*
-		int[] firstArray = new int[]{11,232,3,44};
-		
-		System.out.println("Original Array");
-		
-		for(int a : firstArray) {
-		
-			System.out.println(a);
-		}
-		
-		System.out.println("");
-		
-		System.out.println("Sorted Array");
-		
-		Arrays.sort(firstArray);
-		
-		for(int a : firstArray) {
-		
-			System.out.println(a);
-		}
-	   */	
-
-
 		int n, pos, x;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter no. of elements you want in array:");
